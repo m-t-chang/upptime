@@ -5,19 +5,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/munchymike.tplinkdns.com.ico",
     "slug": "munchy-mike",
     "status": "down",
-    "uptime": "95.56%",
-    "uptimeDay": "95.56%",
-    "uptimeWeek": "95.56%",
-    "uptimeMonth": "95.56%",
-    "uptimeYear": "95.56%",
+    "uptime": "36.31%",
+    "uptimeDay": "16.20%",
+    "uptimeWeek": "36.31%",
+    "uptimeMonth": "36.31%",
+    "uptimeYear": "36.31%",
     "time": 715,
-    "timeDay": 715,
+    "timeDay": 0,
     "timeWeek": 715,
     "timeMonth": 715,
     "timeYear": 715,
     "dailyMinutesDown": {
-      "2026-07-07": 15,
-      "2026-07-06": 18
+      "2026-07-07": 1114,
+      "2026-07-06": 18,
+      "2026-07-08": 108
     }
   }
 ]
