@@ -2,8 +2,8 @@ owner: m-t-chang # Your GitHub organization or username, where this repository l
 repo: upptime # The name of this repository
 
 sites:
-  - name: Munchy Mike
-    url: http://munchymike.tplinkdns.com
+  - name: website
+    url: http://munchymike.duckdns.com
 
 # status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
