@@ -3,7 +3,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: website
-    url: http://munchymike.duckdns.com
+    url: http://munchymike.duckdns.org
 
 # status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
