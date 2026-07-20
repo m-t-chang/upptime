@@ -1,8 +1,8 @@
 [
   {
     "name": "website",
-    "url": "http://munchymike.duckdns.com",
-    "icon": "https://icons.duckduckgo.com/ip3/munchymike.duckdns.com.ico",
+    "url": "http://munchymike.duckdns.org",
+    "icon": "https://icons.duckduckgo.com/ip3/munchymike.duckdns.org.ico",
     "slug": "website",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 916,
-    "timeDay": 916,
-    "timeWeek": 916,
-    "timeMonth": 916,
-    "timeYear": 916,
+    "time": 914,
+    "timeDay": 914,
+    "timeWeek": 914,
+    "timeMonth": 914,
+    "timeYear": 914,
     "dailyMinutesDown": {}
   }
 ]
