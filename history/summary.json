@@ -4,19 +4,19 @@
     "url": "http://munchymike.duckdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/munchymike.duckdns.org.ico",
     "slug": "website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1689,
-    "timeDay": 3442,
-    "timeWeek": 1689,
-    "timeMonth": 1689,
-    "timeYear": 1689,
+    "status": "up",
+    "uptime": "95.99%",
+    "uptimeDay": "85.71%",
+    "uptimeWeek": "95.99%",
+    "uptimeMonth": "95.99%",
+    "uptimeYear": "95.99%",
+    "time": 1742,
+    "timeDay": 2751,
+    "timeWeek": 1742,
+    "timeMonth": 1742,
+    "timeYear": 1742,
     "dailyMinutesDown": {
-      "2026-07-23": 0
+      "2026-07-23": 206
     }
   }
 ]
